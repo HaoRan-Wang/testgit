@@ -1,1 +1,2 @@
-select * from yls_contract_c; 
+select * from yls_contract;
+insert into yls_contract_c values(.....);`
